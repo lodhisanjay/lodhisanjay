@@ -1,4 +1,4 @@
-![logo](https://github.com/lodhisanjay/sanjay-lodhi/blob/main/ilovecoding1.jpeg)
+![logo](https://github.com/lodhisanjay/lodhisanjay/blob/main/ilovecoding1.jpeg)
 
 
 <h1 align="center">Hi 👋, I'm sanjay-lodhi</h1>
