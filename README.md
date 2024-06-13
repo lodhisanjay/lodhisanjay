@@ -5,8 +5,6 @@
 <h3 align="center">A passionate java developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lodhisanjay&label=Profile%20views&color=0e75b6&style=flat" alt="lodhisanjay" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lodhisanjay" alt="lodhisanjay" /></a> </p>
 <img src="https://c.tenor.com/OKMiJjqXkMcAAAAC/tenor.gif" width="300px" align="right" alt="" >
 
 - 🌱 I’m currently learning **Spring Microservices, Docker, Kafka**
